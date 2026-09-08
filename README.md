@@ -51,7 +51,7 @@
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
-![Chase's Github Stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=github_dark&count_private=true&show_icons=true?hide_border)
+![Chase's Github Stats](https://github-readme-stats.vercel.app/api?username=chasecrampton&theme=github_dark&count_private=true&show_icons=true?hide_border)
 
-![Chase's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chromus-dev&layout=compact&theme=github_dark?hide_border)
+![Chase's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chasecrampton&layout=compact&theme=github_dark?hide_border)
 
